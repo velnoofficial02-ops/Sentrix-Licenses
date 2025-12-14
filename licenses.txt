@@ -1,0 +1,5 @@
+# Sentrix Licenses
+# Format:
+# HWID=<value>;expires=<timestamp>;tier=<name>
+
+HWID=UNASSIGNED;expires=1893456000000;tier=PRO
