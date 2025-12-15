@@ -1,7 +1,8 @@
 # Sentrix Licenses
 # Format: HWID=<hash>;expires=<timestamp>;tier=<name>;owner=<name>;status=<status>
-# Updated: 2025-12-15T18:08:26.720Z
+# Updated: 2025-12-15T18:09:05.092Z
 
 HWID=UNASSIGNED;expires=1893456000000;tier=PRO;owner=unknown;status=ACTIVE
 HWID=3_wGkCU2YovMzggTT_knzT_AUbcd_MGHDMdxd8h2ZRo;expires=1770931411015;tier=enterprise;owner=vasarlo;status=ACTIVE
 HWID=DWNNzAUpu28au_8szvtS0dmD7sPktn1V6ouD76gAAGs;expires=1773598001221;tier=standard;owner=icy;status=ACTIVE
+HWID=DWNNzAUpu28au_8szvtS0dmD7sPktn1V6ouD76gAAGs;expires=1768414144710;tier=enterprise;owner=icybreak;status=ACTIVE
