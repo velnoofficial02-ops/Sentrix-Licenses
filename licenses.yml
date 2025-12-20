@@ -1,5 +1,9 @@
 licenses:
   4B60A696CD6C0A4B:
     active: true
-    owner: aa
+    owner: "aa"
+    note: ""
+  118AB658DFDD80E5:
+    active: true
+    owner: "draxel"
     note: ""
